@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\bin\Debug\08CurrentDateTime.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\bin\Debug\08CurrentDateTime.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\bin\Debug\08CurrentDateTime.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\obj\Debug\08CurrentDateTime.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\obj\Debug\08CurrentDateTime.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\08CurrentDateTime\obj\Debug\08CurrentDateTime.pdb

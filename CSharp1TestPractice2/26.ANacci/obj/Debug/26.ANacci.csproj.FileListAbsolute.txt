@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\bin\Debug\26.ANacci.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\bin\Debug\26.ANacci.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\bin\Debug\26.ANacci.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\obj\Debug\26.ANacci.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\obj\Debug\26.ANacci.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\26.ANacci\obj\Debug\26.ANacci.pdb

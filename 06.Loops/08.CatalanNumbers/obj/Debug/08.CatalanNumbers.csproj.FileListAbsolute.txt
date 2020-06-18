@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.csprojResolveAssemblyReference.cache

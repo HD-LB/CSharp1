@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\bin\Debug\32.Eggcelent.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\bin\Debug\32.Eggcelent.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\bin\Debug\32.Eggcelent.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\obj\Debug\32.Eggcelent.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\obj\Debug\32.Eggcelent.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\32.Eggcelent\obj\Debug\32.Eggcelent.pdb

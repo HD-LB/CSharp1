@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\13.BitsToBits\bin\Debug\13.BitsToBits.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\13.BitsToBits\bin\Debug\13.BitsToBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\13.BitsToBits\bin\Debug\13.BitsToBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\13.BitsToBits\obj\Debug\13.BitsToBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\13.BitsToBits\obj\Debug\13.BitsToBits.pdb

@@ -1,0 +1,10 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb

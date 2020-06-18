@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\bin\Debug\34.Garden.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\bin\Debug\34.Garden.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\bin\Debug\34.Garden.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\obj\Debug\34.Garden.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\obj\Debug\34.Garden.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\34.Garden\obj\Debug\34.Garden.csprojResolveAssemblyReference.cache

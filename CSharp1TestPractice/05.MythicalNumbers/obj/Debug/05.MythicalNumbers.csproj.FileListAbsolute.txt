@@ -1,0 +1,2 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\05.MythicalNumbers\bin\Debug\05.MythicalNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\05.MythicalNumbers\bin\Debug\05.MythicalNumbers.exe.config

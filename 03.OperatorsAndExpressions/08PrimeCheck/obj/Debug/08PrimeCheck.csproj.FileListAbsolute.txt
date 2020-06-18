@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\08PrimeCheck\bin\Debug\08PrimeCheck.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\08PrimeCheck\bin\Debug\08PrimeCheck.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\08PrimeCheck\bin\Debug\08PrimeCheck.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\08PrimeCheck\obj\Debug\08PrimeCheck.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\08PrimeCheck\obj\Debug\08PrimeCheck.pdb

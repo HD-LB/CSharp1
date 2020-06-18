@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\20.Sheets2\bin\Debug\20.Sheets2.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\20.Sheets2\bin\Debug\20.Sheets2.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\20.Sheets2\bin\Debug\20.Sheets2.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\20.Sheets2\obj\Debug\20.Sheets2.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\20.Sheets2\obj\Debug\20.Sheets2.pdb

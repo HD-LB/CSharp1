@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\bin\Debug\16CheckABitAtAGvvenPosition.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\bin\Debug\16CheckABitAtAGvvenPosition.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\bin\Debug\16CheckABitAtAGvvenPosition.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\obj\Debug\16CheckABitAtAGvvenPosition.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\obj\Debug\16CheckABitAtAGvvenPosition.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\OperatorsAndExpressions\16CheckABitAtAGvvenPosition\obj\Debug\16CheckABitAtAGvvenPosition.csprojResolveAssemblyReference.cache

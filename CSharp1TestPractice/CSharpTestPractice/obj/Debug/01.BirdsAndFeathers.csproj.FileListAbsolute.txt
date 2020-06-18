@@ -1,0 +1,9 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\bin\Debug\CSharpTestPractice.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\obj\Debug\01.BirdsAndFeathers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\bin\Debug\CSharpTestPractice.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\bin\Debug\CSharpTestPractice.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\obj\Debug\CSharpTestPractice.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\CSharpTestPractice\obj\Debug\CSharpTestPractice.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\CSharpTestPractice\bin\Debug\CSharpTestPractice.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\CSharpTestPractice\obj\Debug\CSharpTestPractice.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\CSharpTestPractice\obj\Debug\CSharpTestPractice.pdb

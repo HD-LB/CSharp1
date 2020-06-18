@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\09IntDoubleString\bin\Debug\09IntDoubleString.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\09IntDoubleString\obj\Debug\09IntDoubleString.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\09IntDoubleString\bin\Debug\09IntDoubleString.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\09IntDoubleString\bin\Debug\09IntDoubleString.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\09IntDoubleString\obj\Debug\09IntDoubleString.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\09IntDoubleString\obj\Debug\09IntDoubleString.pdb

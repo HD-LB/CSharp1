@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.pdb

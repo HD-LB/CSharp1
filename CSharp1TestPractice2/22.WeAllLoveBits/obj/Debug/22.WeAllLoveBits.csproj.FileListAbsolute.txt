@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\bin\Debug\22.WeAllLoveBits.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\bin\Debug\22.WeAllLoveBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\bin\Debug\22.WeAllLoveBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\obj\Debug\22.WeAllLoveBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\obj\Debug\22.WeAllLoveBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\22.WeAllLoveBits\obj\Debug\22.WeAllLoveBits.csprojResolveAssemblyReference.cache

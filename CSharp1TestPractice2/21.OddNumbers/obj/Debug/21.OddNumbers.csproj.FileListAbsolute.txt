@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\21.OddNumbers\bin\Debug\21.OddNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\21.OddNumbers\bin\Debug\21.OddNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\21.OddNumbers\bin\Debug\21.OddNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\21.OddNumbers\obj\Debug\21.OddNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\21.OddNumbers\obj\Debug\21.OddNumbers.pdb

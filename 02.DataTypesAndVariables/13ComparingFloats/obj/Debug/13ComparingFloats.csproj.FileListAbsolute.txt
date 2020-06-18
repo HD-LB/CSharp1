@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\13ComparingFloats\bin\Debug\13ComparingFloats.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\13ComparingFloats\bin\Debug\13ComparingFloats.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\13ComparingFloats\obj\Debug\13ComparingFloats.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\13ComparingFloats\bin\Debug\13ComparingFloats.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\13ComparingFloats\obj\Debug\13ComparingFloats.pdb

@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb

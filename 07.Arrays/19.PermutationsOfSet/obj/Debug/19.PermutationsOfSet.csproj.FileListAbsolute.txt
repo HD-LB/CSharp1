@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\bin\Debug\19.PermutationsOfSet.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\19.PermutationsOfSet\obj\Debug\19.PermutationsOfSet.pdb

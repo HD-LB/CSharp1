@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\08DigitAsNumber\bin\Debug\08DigitAsNumber.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\08DigitAsNumber\bin\Debug\08DigitAsNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\08DigitAsNumber\bin\Debug\08DigitAsNumber.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\08DigitAsNumber\obj\Debug\08DigitAsNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConditionalStatements\08DigitAsNumber\obj\Debug\08DigitAsNumber.pdb

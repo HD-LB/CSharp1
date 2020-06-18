@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\07SumOF5Numbers\bin\Debug\07SumOF5Numbers.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\07SumOF5Numbers\bin\Debug\07SumOF5Numbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\07SumOF5Numbers\bin\Debug\07SumOF5Numbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\07SumOF5Numbers\obj\Debug\07SumOF5Numbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\07SumOF5Numbers\obj\Debug\07SumOF5Numbers.pdb

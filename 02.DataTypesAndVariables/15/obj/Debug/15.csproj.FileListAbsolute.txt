@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\bin\Debug\15.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\bin\Debug\15.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\bin\Debug\15.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\obj\Debug\15.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\15\obj\Debug\15.pdb

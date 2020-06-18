@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\bin\Debug\30.AngryFemaleGPS.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\bin\Debug\30.AngryFemaleGPS.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\bin\Debug\30.AngryFemaleGPS.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\obj\Debug\30.AngryFemaleGPS.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\obj\Debug\30.AngryFemaleGPS.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\30.AngryFemaleGPS\obj\Debug\30.AngryFemaleGPS.pdb

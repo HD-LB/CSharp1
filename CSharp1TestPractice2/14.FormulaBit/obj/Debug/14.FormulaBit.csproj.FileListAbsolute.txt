@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\bin\Debug\14.FormulaBit.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\bin\Debug\14.FormulaBit.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\bin\Debug\14.FormulaBit.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\obj\Debug\14.FormulaBit.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\obj\Debug\14.FormulaBit.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\14.FormulaBit\obj\Debug\14.FormulaBit.pdb

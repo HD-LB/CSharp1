@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb

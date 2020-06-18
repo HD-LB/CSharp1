@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\bin\Debug\02CompanyInfo.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\02CompanyInfo\obj\Debug\02CompanyInfo.pdb

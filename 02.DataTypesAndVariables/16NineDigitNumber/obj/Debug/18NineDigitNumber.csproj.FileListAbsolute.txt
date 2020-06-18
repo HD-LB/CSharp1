@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\bin\Debug\16NineDigitNumber.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\bin\Debug\16NineDigitNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\bin\Debug\16NineDigitNumber.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\obj\Debug\18NineDigitNumber.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\obj\Debug\16NineDigitNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16NineDigitNumber\obj\Debug\16NineDigitNumber.pdb

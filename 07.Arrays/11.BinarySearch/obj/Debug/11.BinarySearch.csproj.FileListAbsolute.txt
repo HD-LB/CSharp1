@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

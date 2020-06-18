@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\12.DecimalToBinary\bin\Debug\12.DecimalToBinary.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\12.DecimalToBinary\bin\Debug\12.DecimalToBinary.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\12.DecimalToBinary\bin\Debug\12.DecimalToBinary.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\12.DecimalToBinary\obj\Debug\12.DecimalToBinary.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\12.DecimalToBinary\obj\Debug\12.DecimalToBinary.pdb

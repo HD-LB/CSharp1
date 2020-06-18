@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\07FormatCode\bin\Debug\07FormatCode.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\07FormatCode\bin\Debug\07FormatCode.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\07FormatCode\bin\Debug\07FormatCode.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\07FormatCode\obj\Debug\07FormatCode.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\07FormatCode\obj\Debug\07FormatCode.pdb

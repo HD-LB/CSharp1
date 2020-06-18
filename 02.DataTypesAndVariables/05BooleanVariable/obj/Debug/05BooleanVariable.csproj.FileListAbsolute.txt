@@ -1,0 +1,14 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\02.DataTypesAndVariables\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

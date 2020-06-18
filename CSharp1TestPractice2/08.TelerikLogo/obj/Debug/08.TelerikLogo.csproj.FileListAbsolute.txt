@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\bin\Debug\08.TelerikLogo.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\bin\Debug\08.TelerikLogo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\bin\Debug\08.TelerikLogo.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\obj\Debug\08.TelerikLogo.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\obj\Debug\08.TelerikLogo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\08.TelerikLogo\obj\Debug\08.TelerikLogo.pdb

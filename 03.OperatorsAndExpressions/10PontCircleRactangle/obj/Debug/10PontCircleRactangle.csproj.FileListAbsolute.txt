@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\bin\Debug\10PontCircleRactangle.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\bin\Debug\10PontCircleRactangle.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\bin\Debug\10PontCircleRactangle.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\obj\Debug\10PontCircleRactangle.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\obj\Debug\10PontCircleRactangle.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\10PontCircleRactangle\obj\Debug\10PontCircleRactangle.pdb

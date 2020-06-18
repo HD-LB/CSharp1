@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\bin\Debug\05SquareRoot.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\bin\Debug\05SquareRoot.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\obj\Debug\05SquareRoot.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\obj\Debug\05SquareRoot.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\05SquareRoot\obj\Debug\05SquareRoot.pdb

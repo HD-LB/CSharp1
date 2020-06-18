@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\12N-thBit\bin\Debug\12N-thBit.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\12N-thBit\obj\Debug\12N-thBit.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\12N-thBit\obj\Debug\12N-thBit.pdb

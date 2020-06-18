@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\bin\Debug\04.BobbyAvokadoto.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\bin\Debug\04.BobbyAvokadoto.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\bin\Debug\04.BobbyAvokadoto.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\obj\Debug\04.BobbyAvokadoto.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\obj\Debug\04.BobbyAvokadoto.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\04.BobbyAvokadoto\obj\Debug\04.BobbyAvokadoto.pdb

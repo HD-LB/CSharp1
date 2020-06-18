@@ -1,0 +1,19 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\01HelloWorld.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+V:\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+V:\Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\01HelloWorld.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\01HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

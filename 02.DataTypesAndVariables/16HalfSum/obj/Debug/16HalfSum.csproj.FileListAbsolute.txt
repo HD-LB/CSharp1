@@ -1,0 +1,2 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables2\16HalfSum\bin\Debug\16HalfSum.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.exe.config

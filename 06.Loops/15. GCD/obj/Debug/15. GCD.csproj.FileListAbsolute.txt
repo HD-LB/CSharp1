@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\15. GCD\bin\Debug\_15.GCD.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\15. GCD\bin\Debug\_15.GCD.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\15. GCD\bin\Debug\_15.GCD.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\15. GCD\obj\Debug\_15.GCD.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\15. GCD\obj\Debug\_15.GCD.pdb

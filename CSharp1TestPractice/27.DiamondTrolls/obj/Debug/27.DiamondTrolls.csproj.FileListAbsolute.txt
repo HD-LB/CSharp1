@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\bin\Debug\27.DiamondTrolls.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\bin\Debug\27.DiamondTrolls.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\bin\Debug\27.DiamondTrolls.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\obj\Debug\27.DiamondTrolls.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\obj\Debug\27.DiamondTrolls.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\27.DiamondTrolls\obj\Debug\27.DiamondTrolls.pdb

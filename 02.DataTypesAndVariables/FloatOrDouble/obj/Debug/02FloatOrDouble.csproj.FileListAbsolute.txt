@@ -1,0 +1,10 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb

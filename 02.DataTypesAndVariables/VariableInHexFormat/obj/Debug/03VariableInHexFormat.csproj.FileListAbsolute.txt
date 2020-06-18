@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb

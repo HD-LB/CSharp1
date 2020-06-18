@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\bin\Debug\03PlayCard.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\obj\Debug\03PlayCard.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\bin\Debug\03PlayCard.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\bin\Debug\03PlayCard.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\obj\Debug\03PlayCard.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\03PlayCard\obj\Debug\03PlayCard.pdb

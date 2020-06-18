@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\10EmployeeData\bin\Debug\10EmployeeData.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\10EmployeeData\bin\Debug\10EmployeeData.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\10EmployeeData\obj\Debug\10EmployeeData.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\10EmployeeData\obj\Debug\10EmployeeData.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\10EmployeeData\obj\Debug\10EmployeeData.pdb

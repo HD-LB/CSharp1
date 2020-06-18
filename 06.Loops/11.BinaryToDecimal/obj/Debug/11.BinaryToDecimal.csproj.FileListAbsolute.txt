@@ -1,0 +1,9 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\06.Loops\11.BinaryToDecimal\bin\Debug\11.BinaryToDecimal.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\06.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\06.Loops\11.BinaryToDecimal\obj\Debug\11.BinaryToDecimal.pdb

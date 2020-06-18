@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb

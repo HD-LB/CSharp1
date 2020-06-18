@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\bin\Debug\16.SubsetWithSumS.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\16.SubsetWithSumS\obj\Debug\16.SubsetWithSumS.pdb

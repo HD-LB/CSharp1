@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\bin\Debug\05ThirdBit.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\bin\Debug\05ThirdBit.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\bin\Debug\05ThirdBit.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\obj\Debug\05ThirdBit.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\obj\Debug\05ThirdBit.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\05ThirdBit\obj\Debug\05ThirdBit.pdb

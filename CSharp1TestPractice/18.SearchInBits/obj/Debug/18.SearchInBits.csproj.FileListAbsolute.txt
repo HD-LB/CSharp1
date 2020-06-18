@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\bin\Debug\18.SearchInBits.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\bin\Debug\18.SearchInBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\bin\Debug\18.SearchInBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\obj\Debug\18.SearchInBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\obj\Debug\18.SearchInBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\18.SearchInBits\obj\Debug\18.SearchInBits.csprojResolveAssemblyReference.cache

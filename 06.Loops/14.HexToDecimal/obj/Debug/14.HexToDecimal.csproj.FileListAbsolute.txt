@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\14.HexToDecimal\bin\Debug\14.HexToDecimal.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\14.HexToDecimal\bin\Debug\14.HexToDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\14.HexToDecimal\bin\Debug\14.HexToDecimal.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\14.HexToDecimal\obj\Debug\14.HexToDecimal.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\14.HexToDecimal\obj\Debug\14.HexToDecimal.pdb

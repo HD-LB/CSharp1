@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\bin\Debug\31.OnesAndZeros.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\bin\Debug\31.OnesAndZeros.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\bin\Debug\31.OnesAndZeros.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\obj\Debug\31.OnesAndZeros.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\obj\Debug\31.OnesAndZeros.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\31.OnesAndZeros\obj\Debug\31.OnesAndZeros.pdb

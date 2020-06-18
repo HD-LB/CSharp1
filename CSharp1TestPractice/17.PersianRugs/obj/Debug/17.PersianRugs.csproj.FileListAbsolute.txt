@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\bin\Debug\17.PersianRugs.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\bin\Debug\17.PersianRugs.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\bin\Debug\17.PersianRugs.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\obj\Debug\17.PersianRugs.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\obj\Debug\17.PersianRugs.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\17.PersianRugs\obj\Debug\17.PersianRugs.csprojResolveAssemblyReference.cache

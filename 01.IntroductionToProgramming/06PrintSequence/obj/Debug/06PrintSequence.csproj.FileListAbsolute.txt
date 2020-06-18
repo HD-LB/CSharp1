@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\bin\Debug\06PrintSequence.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\obj\Debug\06PrintSequence.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\bin\Debug\06PrintSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\bin\Debug\06PrintSequence.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\obj\Debug\06PrintSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\06PrintSequence\obj\Debug\06PrintSequence.pdb

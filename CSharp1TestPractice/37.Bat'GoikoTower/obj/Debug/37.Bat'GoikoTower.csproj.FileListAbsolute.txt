@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\bin\Debug\37.Bat'GoikoTower.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\bin\Debug\37.Bat'GoikoTower.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\bin\Debug\37.Bat'GoikoTower.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\obj\Debug\37.Bat'GoikoTower.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\obj\Debug\37.Bat'GoikoTower.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\37.Bat'GoikoTower\obj\Debug\37.Bat'GoikoTower.csprojResolveAssemblyReference.cache

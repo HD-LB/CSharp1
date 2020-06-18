@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\bin\Debug\28.SevenlandNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\bin\Debug\28.SevenlandNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\bin\Debug\28.SevenlandNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\obj\Debug\28.SevenlandNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\obj\Debug\28.SevenlandNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\28.SevenlandNumbers\obj\Debug\28.SevenlandNumbers.pdb

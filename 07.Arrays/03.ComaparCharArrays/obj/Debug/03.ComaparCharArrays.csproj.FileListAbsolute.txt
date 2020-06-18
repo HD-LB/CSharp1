@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\bin\Debug\03.ComaparCharArrays.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\bin\Debug\03.ComaparCharArrays.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\bin\Debug\03.ComaparCharArrays.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\obj\Debug\03.ComaparCharArrays.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\obj\Debug\03.ComaparCharArrays.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\03.ComaparCharArrays\obj\Debug\03.ComaparCharArrays.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

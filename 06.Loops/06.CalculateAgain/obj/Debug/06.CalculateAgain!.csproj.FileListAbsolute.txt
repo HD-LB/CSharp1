@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\06.CalculateAgain\bin\Debug\06.CalculateAgain.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\06.CalculateAgain\obj\Debug\06.CalculateAgain.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\06.CalculateAgain\obj\Debug\06.CalculateAgain.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\bin\Debug\09.FrequentNumber.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\09.FrequentNumber\obj\Debug\09.FrequentNumber.pdb

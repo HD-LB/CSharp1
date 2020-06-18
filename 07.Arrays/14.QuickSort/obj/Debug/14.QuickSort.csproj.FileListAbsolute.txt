@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\bin\Debug\14.QuickSort.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache

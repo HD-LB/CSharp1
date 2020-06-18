@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\bin\Debug\29.PeaceOfCake.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\bin\Debug\29.PeaceOfCake.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\bin\Debug\29.PeaceOfCake.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\obj\Debug\29.PeaceOfCake.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\obj\Debug\29.PeaceOfCake.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\29.PeaceOfCake\obj\Debug\29.PeaceOfCake.pdb

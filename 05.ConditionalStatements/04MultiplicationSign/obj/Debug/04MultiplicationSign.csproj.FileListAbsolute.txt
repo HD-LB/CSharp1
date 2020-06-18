@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb

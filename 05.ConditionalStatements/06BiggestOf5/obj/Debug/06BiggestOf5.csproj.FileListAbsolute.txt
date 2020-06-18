@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\bin\Debug\06BiggestOf5.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\bin\Debug\06BiggestOf5.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\bin\Debug\06BiggestOf5.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\obj\Debug\06BiggestOf5.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\obj\Debug\06BiggestOf5.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\06BiggestOf5\obj\Debug\06BiggestOf5.pdb

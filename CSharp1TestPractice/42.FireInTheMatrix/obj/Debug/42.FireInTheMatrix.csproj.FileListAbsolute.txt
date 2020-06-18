@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\bin\Debug\42.FireInTheMatrix.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\bin\Debug\42.FireInTheMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\bin\Debug\42.FireInTheMatrix.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\obj\Debug\42.FireInTheMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\obj\Debug\42.FireInTheMatrix.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\42.FireInTheMatrix\obj\Debug\42.FireInTheMatrix.csprojResolveAssemblyReference.cache

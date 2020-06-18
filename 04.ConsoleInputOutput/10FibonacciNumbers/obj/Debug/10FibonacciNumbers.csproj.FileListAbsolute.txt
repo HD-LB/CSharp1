@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\obj\Debug\04FirstLastName.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\obj\Debug\03FirstLastName.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\03FirstLastName\obj\Debug\03FirstLastName.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.exe.config
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\obj\Debug\03FirstLastName.exe
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\obj\Debug\03FirstLastName.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.exe
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\bin\Debug\03FirstLastName.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\03FirstLastName\obj\Debug\04FirstLastName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\17.SpiralMatrix\bin\Debug\17.SpiralMatrix.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\17.SpiralMatrix\bin\Debug\17.SpiralMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\17.SpiralMatrix\bin\Debug\17.SpiralMatrix.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\17.SpiralMatrix\obj\Debug\17.SpiralMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\17.SpiralMatrix\obj\Debug\17.SpiralMatrix.pdb

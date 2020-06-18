@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\bin\Debug\43.NeuronMapping.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\bin\Debug\43.NeuronMapping.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\bin\Debug\43.NeuronMapping.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\obj\Debug\43.NeuronMapping.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\obj\Debug\43.NeuronMapping.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\43.NeuronMapping\obj\Debug\43.NeuronMapping.csprojResolveAssemblyReference.cache

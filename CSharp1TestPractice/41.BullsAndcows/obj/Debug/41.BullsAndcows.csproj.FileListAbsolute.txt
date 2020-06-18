@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\bin\Debug\41.BullsAndcows.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\bin\Debug\41.BullsAndcows.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\bin\Debug\41.BullsAndcows.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\obj\Debug\41.BullsAndcows.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\obj\Debug\41.BullsAndcows.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\41.BullsAndcows\obj\Debug\41.BullsAndcows.csprojResolveAssemblyReference.cache

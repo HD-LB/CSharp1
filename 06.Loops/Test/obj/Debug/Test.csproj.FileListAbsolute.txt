@@ -1,0 +1,13 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\Test\bin\Debug\Test.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\Test\bin\Debug\Test.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\Test\bin\Debug\Test.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\Test\obj\Debug\Test.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\Test\obj\Debug\Test.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\bin\Debug\Test.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\bin\Debug\Test.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\bin\Debug\Test.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\obj\Debug\Test.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\06.Loops\Test\obj\Debug\Test.pdb

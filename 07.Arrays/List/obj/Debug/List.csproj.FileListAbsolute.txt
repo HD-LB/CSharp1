@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\bin\Debug\List.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\bin\Debug\List.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\bin\Debug\List.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\obj\Debug\List.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\obj\Debug\List.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Arrays\List\obj\Debug\List.csprojResolveAssemblyReference.cache

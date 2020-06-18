@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\bin\Debug\08.MixingNUmbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\bin\Debug\08.MixingNUmbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\bin\Debug\08.MixingNUmbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\obj\Debug\08.MixingNUmbers.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\obj\Debug\08.MixingNUmbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\08.MixingNUmbers\obj\Debug\08.MixingNUmbers.pdb

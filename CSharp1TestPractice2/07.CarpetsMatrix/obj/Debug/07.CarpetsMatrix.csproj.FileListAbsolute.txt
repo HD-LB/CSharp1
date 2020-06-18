@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\bin\Debug\07.CarpetsMatrix.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\bin\Debug\07.CarpetsMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\bin\Debug\07.CarpetsMatrix.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\obj\Debug\07.CarpetsMatrix.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\obj\Debug\07.CarpetsMatrix.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\07.CarpetsMatrix\obj\Debug\07.CarpetsMatrix.pdb

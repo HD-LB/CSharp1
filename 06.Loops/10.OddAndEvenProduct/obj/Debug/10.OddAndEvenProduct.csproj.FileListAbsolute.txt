@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

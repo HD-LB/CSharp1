@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\bin\Debug\07.HiddenMessage.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\obj\Debug\07.HiddenMessage.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\bin\Debug\07.HiddenMessage.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\bin\Debug\07.HiddenMessage.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\obj\Debug\07.HiddenMessage.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\07.HiddenMessage\obj\Debug\07.HiddenMessage.pdb

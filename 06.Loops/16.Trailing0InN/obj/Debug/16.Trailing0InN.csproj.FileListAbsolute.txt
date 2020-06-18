@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\16.Trailing0InN\bin\Debug\16.Trailing0InN.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\16.Trailing0InN\bin\Debug\16.Trailing0InN.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\16.Trailing0InN\bin\Debug\16.Trailing0InN.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\16.Trailing0InN\obj\Debug\16.Trailing0InN.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\16.Trailing0InN\obj\Debug\16.Trailing0InN.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\16.Trailing0InN\obj\Debug\16.Trailing0InN.csprojResolveAssemblyReference.cache

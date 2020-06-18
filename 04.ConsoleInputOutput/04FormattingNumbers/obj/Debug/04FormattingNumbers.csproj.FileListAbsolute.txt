@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\bin\Debug\04FormattingNumbers.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\bin\Debug\04FormattingNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\bin\Debug\04FormattingNumbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\obj\Debug\04FormattingNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\obj\Debug\04FormattingNumbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\04FormattingNumbers\obj\Debug\04FormattingNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb

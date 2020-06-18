@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\03DevideBy7And5\bin\Debug\03DevideBy7And5.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\03DevideBy7And5\bin\Debug\03DevideBy7And5.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\03DevideBy7And5\bin\Debug\03DevideBy7And5.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\03DevideBy7And5\obj\Debug\03DevideBy7And5.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\03DevideBy7And5\obj\Debug\03DevideBy7And5.pdb

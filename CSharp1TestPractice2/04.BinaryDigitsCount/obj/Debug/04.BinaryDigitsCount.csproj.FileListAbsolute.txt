@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\bin\Debug\04.BinaryDigitsCount.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\bin\Debug\04.BinaryDigitsCount.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\bin\Debug\04.BinaryDigitsCount.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\obj\Debug\04.BinaryDigitsCount.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\obj\Debug\04.BinaryDigitsCount.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\04.BinaryDigitsCount\obj\Debug\04.BinaryDigitsCount.pdb

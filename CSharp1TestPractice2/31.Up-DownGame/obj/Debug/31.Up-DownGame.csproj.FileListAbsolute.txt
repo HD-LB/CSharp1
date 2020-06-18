@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\bin\Debug\31.Up-DownGame.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\bin\Debug\31.Up-DownGame.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\bin\Debug\31.Up-DownGame.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\obj\Debug\31.Up-DownGame.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\obj\Debug\31.Up-DownGame.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\31.Up-DownGame\obj\Debug\31.Up-DownGame.pdb

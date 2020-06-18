@@ -1,0 +1,5 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\23.SequenceOfBits\bin\Debug\23.SequenceOfBits.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\23.SequenceOfBits\bin\Debug\23.SequenceOfBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\23.SequenceOfBits\bin\Debug\23.SequenceOfBits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\23.SequenceOfBits\obj\Debug\23.SequenceOfBits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\23.SequenceOfBits\obj\Debug\23.SequenceOfBits.pdb

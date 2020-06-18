@@ -1,0 +1,8 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

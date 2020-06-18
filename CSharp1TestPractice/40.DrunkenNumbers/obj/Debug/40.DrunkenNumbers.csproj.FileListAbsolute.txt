@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\bin\Debug\40.DrunkenNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\bin\Debug\40.DrunkenNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\bin\Debug\40.DrunkenNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\obj\Debug\40.DrunkenNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\obj\Debug\40.DrunkenNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\40.DrunkenNumbers\obj\Debug\40.DrunkenNumbers.csprojResolveAssemblyReference.cache

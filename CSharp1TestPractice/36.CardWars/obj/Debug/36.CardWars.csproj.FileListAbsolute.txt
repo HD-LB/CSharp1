@@ -1,0 +1,9 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\bin\Debug\36.CardWars.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\bin\Debug\36.CardWars.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\bin\Debug\36.CardWars.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\obj\Debug\36.CardWars.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\obj\Debug\36.CardWars.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\36.CardWars\obj\Debug\36.CardWars.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\36.CardWars\bin\Debug\36.CardWars.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\36.CardWars\obj\Debug\36.CardWars.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharp1\CSharp1TestPractice\36.CardWars\obj\Debug\36.CardWars.pdb

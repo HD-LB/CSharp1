@@ -1,0 +1,9 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\DataTypesAndVariables2\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\DataTypesAndVariables\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb

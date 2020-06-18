@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\bin\Debug\16.ConsoleApplication.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\bin\Debug\16.ConsoleApplication.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\bin\Debug\16.ConsoleApplication.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\obj\Debug\16.ConsoleApplication.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\obj\Debug\16.ConsoleApplication.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice\16.ConsoleApplication\obj\Debug\16.ConsoleApplication.csprojResolveAssemblyReference.cache

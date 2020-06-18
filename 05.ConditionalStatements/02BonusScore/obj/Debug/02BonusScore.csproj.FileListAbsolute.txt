@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.pdb

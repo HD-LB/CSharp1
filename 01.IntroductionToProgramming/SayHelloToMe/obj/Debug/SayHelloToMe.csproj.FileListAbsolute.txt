@@ -1,0 +1,8 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\SayHelloToMe\bin\Debug\SayHelloToMe.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\SayHelloToMe\bin\Debug\SayHelloToMe.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\SayHelloToMe\bin\Debug\SayHelloToMe.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\SayHelloToMe\obj\Debug\SayHelloToMe.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\SayHelloToMe\obj\Debug\SayHelloToMe.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\SayHelloToMe\bin\Debug\SayHelloToMe.exe.config
+V:\Projects\CSharp1\01.IntroductionToProgramming\SayHelloToMe\obj\Debug\SayHelloToMe.exe
+V:\Projects\CSharp1\01.IntroductionToProgramming\SayHelloToMe\obj\Debug\SayHelloToMe.pdb

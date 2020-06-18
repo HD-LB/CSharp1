@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

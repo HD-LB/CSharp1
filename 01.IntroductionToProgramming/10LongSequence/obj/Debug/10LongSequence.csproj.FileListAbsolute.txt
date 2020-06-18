@@ -1,0 +1,8 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\10LongSequence\bin\Debug\10LongSequence.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\10LongSequence\bin\Debug\10LongSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\10LongSequence\bin\Debug\10LongSequence.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\10LongSequence\obj\Debug\10LongSequence.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\10LongSequence\obj\Debug\10LongSequence.pdb
+V:\Projects\CSharp1\01.IntroductionToProgramming\10LongSequence\bin\Debug\10LongSequence.exe.config
+V:\Projects\CSharp1\01.IntroductionToProgramming\10LongSequence\obj\Debug\10LongSequence.exe
+V:\Projects\CSharp1\01.IntroductionToProgramming\10LongSequence\obj\Debug\10LongSequence.pdb

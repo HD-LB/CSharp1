@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\bin\Debug\09SumOFNNumbers.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\bin\Debug\09SumOFNNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\bin\Debug\09SumOFNNumbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\obj\Debug\09SumOFNNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\obj\Debug\09SumOFNNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConsoleInputOutput\09SumOFNNumbers\obj\Debug\09SumOFNNumbers.pdb

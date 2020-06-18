@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\bin\Debug\30.TripleRotationOfDigits.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\bin\Debug\30.TripleRotationOfDigits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\bin\Debug\30.TripleRotationOfDigits.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\obj\Debug\30.TripleRotationOfDigits.csprojResolveAssemblyReference.cache
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\obj\Debug\30.TripleRotationOfDigits.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\CSharpTestPractice2\30.TripleRotationOfDigits\obj\Debug\30.TripleRotationOfDigits.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\bin\Debug\HelloWorld.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\IntroductionToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

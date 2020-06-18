@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\15BitSwap\bin\Debug\15BitSwap.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\15BitSwap\bin\Debug\15BitSwap.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\15BitSwap\bin\Debug\15BitSwap.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\15BitSwap\obj\Debug\15BitSwap.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\OperatorsAndExpressions\15BitSwap\obj\Debug\15BitSwap.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\OperatorsAndExpressions\15BitSwap\obj\Debug\15BitSwap.csprojResolveAssemblyReference.cache

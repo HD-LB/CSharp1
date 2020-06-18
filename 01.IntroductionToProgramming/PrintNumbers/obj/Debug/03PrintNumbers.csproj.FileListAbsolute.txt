@@ -1,0 +1,13 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\IntroductionToProgramming\PrintNumbers\obj\Debug\03PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\obj\Debug\03PrintNumbers.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\obj\Debug\03PrintNumbers.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\CSharp1\01.IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,6 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.exe.config
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\bin\Debug\01ExchangeNumbers.pdb
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.csprojResolveAssemblyReference.cache
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.exe
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\ConditionalStatements\01ExchangeNumbers\obj\Debug\01ExchangeNumbers.pdb

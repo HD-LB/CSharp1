@@ -1,0 +1,6 @@
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\bin\Debug\Demo.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\bin\Debug\Demo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\bin\Debug\Demo.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\obj\Debug\Demo.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\obj\Debug\Demo.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\ConsoleInputOutput\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

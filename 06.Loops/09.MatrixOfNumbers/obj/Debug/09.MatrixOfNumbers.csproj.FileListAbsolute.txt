@@ -1,0 +1,5 @@
+\\2lunatix\userdata\users\maria\docuemnts\visual studio 2015\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+\\2lunatix\Userdata\Users\maria\Docuemnts\Visual Studio 2015\Projects\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb
